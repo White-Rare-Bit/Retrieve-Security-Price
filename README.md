@@ -5,4 +5,4 @@ Replace:
 
 **'x-rapidapi-key': <"REDACTED">**
 
-With your API key retreived from: https://rapidapi.com/twelvedata/api/twelve-data1
+With your API key retrieved from: https://rapidapi.com/twelvedata/api/twelve-data1
